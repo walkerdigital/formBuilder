@@ -161,7 +161,6 @@ Author: Kevin Chappell <kevin.b.chappell@gmail.com>
       -ms-user-select: none;
           user-select: none;
   background-image: none;
-  border: 1px solid transparent;
   border-radius: 4px; }
   .rendered-form .btn.btn-lg {
     padding: 10px 16px;
